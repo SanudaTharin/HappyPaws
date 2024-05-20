@@ -28,6 +28,8 @@ HappyPaws is a pet care app designed for veterinary centers to manage client and
 ![WhatsApp Image 2024-05-20 at 10 25 25_976664c7](https://github.com/SanudaTharin/HappyPaws/assets/154645932/78dfb1a2-43f7-4f2c-9b35-e7f7e9b55bfe)
 ![WhatsApp Image 2024-05-20 at 10 25 24_a6e8b864](https://github.com/SanudaTharin/HappyPaws/assets/154645932/3ee0bd54-1269-4b15-ba7c-99e76459f131)
 ![WhatsApp Image 2024-05-20 at 10 25 27_a9ee3a6a](https://github.com/SanudaTharin/HappyPaws/assets/154645932/68964017-032a-4711-99bb-ac7ed70c9410)
+![WhatsApp Image 2024-05-20 at 10 25 25_7c7ff026](https://github.com/SanudaTharin/HappyPaws/assets/154645932/a59e9a83-dd5e-4176-b8c8-145f33f48625)
+
 
 
 ## Usage
