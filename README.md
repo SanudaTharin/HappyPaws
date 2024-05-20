@@ -21,3 +21,25 @@ HappyPaws is a pet care app designed for veterinary centers to manage client and
 - **Frontend**: Android Studio
 - **Backend**: Firebase
 - **Authentication**: Firebase Authentication (Email/Password)
+
+## Screenshots
+
+![WhatsApp Image 2024-05-20 at 10 25 24_d88cb1f9](https://github.com/SanudaTharin/HappyPaws/assets/154645932/27e8d8ee-7bce-4ea6-b17c-2ac30be11880)
+![WhatsApp Image 2024-05-20 at 10 25 25_976664c7](https://github.com/SanudaTharin/HappyPaws/assets/154645932/78dfb1a2-43f7-4f2c-9b35-e7f7e9b55bfe)
+![WhatsApp Image 2024-05-20 at 10 25 24_a6e8b864](https://github.com/SanudaTharin/HappyPaws/assets/154645932/3ee0bd54-1269-4b15-ba7c-99e76459f131)
+![WhatsApp Image 2024-05-20 at 10 25 27_a9ee3a6a](https://github.com/SanudaTharin/HappyPaws/assets/154645932/68964017-032a-4711-99bb-ac7ed70c9410)
+
+
+## Usage
+
+1. **Admin:**
+   - Log in using the admin credentials.
+   - Navigate to the dashboard to view all client details.
+   - Set events for clients using the built-in calendar.
+
+2. **Client:**
+   - Register using an email and password.
+   - Log in to the app.
+   - Add pets by entering details and uploading photos.
+   - View the list of pets in the RecyclerView.
+   - Check events set by the admin in the calendar.
